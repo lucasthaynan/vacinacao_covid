@@ -1,4 +1,4 @@
-# Vacinação
+# Vacinação em Alagoas
 Script que estrutura os dados de vacinação contra a Covid-19 no Brasil, [diponibilizados no Open Data SUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao) e organiza as informações por dia e tipo de vacina, por um estado específico. Neste caso, Alagoas.
 # Dados
 Os dados coledados estão em arquivos separados por UF.
