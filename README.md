@@ -4,3 +4,5 @@ Script que estrutura os dados de vacinação contra a Covid-19 no Brasil, [dipon
 Os dados coletados estão em arquivos separados por UF.
   * [Acessar dados em .csv](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8)
   * [Dicionário dos dados](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/38ead83d-b115-4219-852e-7244792bc311)
+# Matéria
+Acesse a [reportagem completa](https://www.agenciatatu.com.br/) com as visualizações obtidas por este script.
