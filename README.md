@@ -7,4 +7,4 @@ Os dados coletados são de 17 de janeiro a 07 de setembro de 2021 e estão em ar
 
 Para esta análise não foram levados em conta possíveis atrasos no registro realizado pelos municípios no sistema de informações do PNI (Programa Nacional de Imunizações).
 # Matéria
-Acesse a [reportagem completa](https://www.agenciatatu.com.br/) com as visualizações obtidas por este script.
+Acesse a [reportagem completa](https://www.agenciatatu.com.br/) com as visualizações geradas por este script.
