@@ -132,8 +132,8 @@ import chart_studio.tools as tls
 # In[307]:
 
 
-username = 'agenciatatu' # your username
-api_key = 'jr9KljqWLYHfVqKC0pdS' # your api key - go to profile > settings > regenerate key
+username = 'USERNAME' # your username
+api_key = 'API_PLOTLY' # your api key - go to profile > settings > regenerate key
 
 chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
 
